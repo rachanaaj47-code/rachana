@@ -1,0 +1,21 @@
+<!-- Write code below 💖 -->
+<body>
+  <h1>BLACK PINK</h1>
+  <img src="https://i.pinimg.com/736x/00/a5/2b/00a52bb0984e5158578b973642688a91.jpg">
+   <p><a href="https://ygfamily.com/ko/artists/blackpink/main">  Blackpink </a>(블랙핑크) is a globally prominent South Korean girl group formed by YG Entertainment. <br>Since their debut in 2016, they have become one of the most successful K-pop acts,<br> recognized for their "girl crush" concept and hit songs.</p>
+   <h3>Members</h3>
+     <ul>
+       <li>Jisoo : Lead vocalist and face of the group.</li>
+       <li>Jennie : Main rapper and lead vocalist.</li>
+       <li>Rosé : Main vocalist and lead dancer.</li>
+       <li>Lisa (리사): Main dancer, lead rapper, and sub-vocalist</li>
+     </ul>
+     <h3> Favorite Songs </h3>
+      <ol>
+        <li>Lovesick Girls</li>
+        <li>Playing with Fire</li>
+        <li>Dont Know What to do without You</li>
+        <li>Pretty Savage</li>
+        <li>Stay</li>
+      </ol>
+</body>
